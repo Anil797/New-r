@@ -1,6 +1,6 @@
 # New-r
 New code writng 
-nAJ
+#
 
-tHIS IS SIMPLE VERSION V1
+THIS IS SIMPLE VERSION V1
 
